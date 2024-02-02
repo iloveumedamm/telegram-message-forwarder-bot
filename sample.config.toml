@@ -6,8 +6,8 @@
 [pyrogram]
 api_id = 12345                                                      # required
 api_hash = "0123456789abcdef0123456789abcdef"                       # required
-bot_token = "123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"                  # either bot_token or session_string is required
-session_string = "1BVn1-ABCD1234efgh5678IJKLmnoPQRsTUVwxyZxxxxxxxx" # either bot_token or session_string is required
+bot_token = "123456789:5685881433:AAF_Ym1mptocz_Ky9azC7b9EV2SIRtCg5EA"                  # either bot_token or session_string is required
+session_string = "" # either bot_token or session_string is required
 sudo_users = [123456789, 123456789]                                 # optional
 
 
