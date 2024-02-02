@@ -6,9 +6,9 @@
 [pyrogram]
 api_id = 13678305                                                      # required
 api_hash = "a5d9be6f810f31e5c56bad6eebbd7ba8"                       # required
-bot_token = "123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ"                  # either bot_token or session_string is required
-session_string = "1BVn1-ABCD1234efgh5678IJKLmnoPQRsTUVwxyZxxxxxxxx" # either bot_token or session_string is required
-sudo_users = [123456789, 123456789]                                 # optional
+bot_token = "5685881433:AAEMyts14ez9h9vJbXgmqDeiwSk6tUVHEzQ"                  # either bot_token or session_string is required
+session_string = "" # either bot_token or session_string is required
+sudo_users = [5496035221, 123456789]                                 # optional
 
 
 # chat ids can be obtained from https://t.me/getidsbot
