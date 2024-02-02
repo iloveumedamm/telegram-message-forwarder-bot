@@ -1,5 +1,5 @@
+import jsonschema 
 from jsonschema import validate
-
 """
 [pyrogram]
 api_id = 12345
