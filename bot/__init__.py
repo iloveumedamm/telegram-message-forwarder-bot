@@ -3,7 +3,8 @@ import os
 import sys
 from os import environ
 import toml
-
+import jsonschema 
+from jsonschema import validate
 from pyrogram import Client
 from .helper.validator import validate_config
 from jsonschema import ValidationError
